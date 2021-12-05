@@ -2,7 +2,7 @@
 The Advent of Code challenge is great way to practice problem solving, with every challenge being more difficult than the last one. 
 Kudos to Eric Wastlhttp://was.tl/ for his work on this.
 
-**This project is meant for practicing my Python coding skills.
+**This project is meant for practicing my Python coding skills.**
 
 Having practice my coding on the 2020 version with C# and having amazing time in doing so, although I only managed 22 stars :( 
 I wanted to use this platform to practice other programming languages that I use every now and then.
